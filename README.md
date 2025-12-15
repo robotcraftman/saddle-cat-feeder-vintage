@@ -31,3 +31,71 @@ While integrating:
 	•	Servo/stepper mechanisms
 	•	Microcontroller logic
 	•	Optional AI module for detection
+---
+
+# Outdoor Cat Feeder – Fusion 360 Prototype
+
+This repository documents the development of a **real, manufacturable outdoor cat feeder prototype**, designed primarily in **Autodesk Fusion 360**.
+
+Fusion 360 is used here as an **engineering tool**, not just for visualization.
+
+---
+
+## Purpose
+
+The goal of this project is to design a **mechanically reliable and sellable cat feeder**, with emphasis on:
+
+- Robust outdoor operation  
+- Clear mechanical architecture  
+- Serviceable and modular design  
+- Real-world manufacturability  
+
+This repository supports future monetization through:
+- Design files
+- Prototypes
+- Small-batch builds or kits
+
+---
+
+## Fusion-Centric Approach
+
+All core design work is done in **Fusion 360**, including:
+
+- Parametric enclosure modeling  
+- Hopper geometry with >50° anti-bridging slopes  
+- Dedicated motor chamber design  
+- Bearing-supported vertical shaft layout  
+- Auger (spiral feeder) geometry  
+- Assembly-aware clearances and interfaces  
+
+Real hardware dimensions (motor, shaft, bearing) are **measured with digital calipers** and used directly in the CAD model.
+
+Fusion models are treated as the **source of truth**.
+
+---
+
+## Current Status
+
+**Phase:** Mechanical prototype (Fusion 360)
+
+Completed:
+- Overall enclosure envelope
+- Hopper and feeding geometry
+- Motor chamber sizing
+- Shaft, bearing, and auger architecture
+
+In progress:
+- Motor mounting details
+- Bearing support refinement
+- Auger optimization
+- Access and sealing features
+
+---
+
+## Planned
+
+- Finalize motor mounting and bearing support geometry in Fusion 360  
+- Complete auger optimization and outlet interface  
+- Design access covers and basic sealing features  
+- Prepare first manufacturable prototype (3D-print oriented)  
+- Export Fusion models for prototyping and documentation
